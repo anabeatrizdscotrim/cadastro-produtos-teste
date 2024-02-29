@@ -1,6 +1,6 @@
 # cadastro-produtos-teste
 
-Este é um projeto Java desenvolvido para facilitar o registro e a gestão de informações relacionadas aos produtos de uma empresa.
+Este é um projeto Java desenvolvido com o propósito de ampliar os conhecimentos sobre testes unitários utilizando a ferramenta Junit. O sistema opera funções básicas na gestão de produtos.
 
 ## Funcionalidades
 - Cadastro de Produto: Permite o cadastro de novos produtos com informações como nome, descrição, categoria, preço unitário e quantidade em estoque.
